@@ -27,3 +27,4 @@
 # 12-file_type
 # 12-file_type
 # symbolic_link
+# symbolic_link
